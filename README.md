@@ -53,7 +53,7 @@ This project is a smart attendance system based on face recognition. It uses a c
 
 ---
 
-##Notes
+## Notes
 Use good lighting for better accuracy
 
 Keep face images clear and front-facing
@@ -63,7 +63,7 @@ One image per person is recommended
 Keep camera stable during detection
 
 ---
-##Future Improvements
+## Future Improvements
 
 Cloud database integration
 
@@ -77,13 +77,13 @@ Multi-face detection optimization
 
 ---
 
-##License
+## License
 
 MIT License
 
 ---
 
-##Support / Custom Development
+## Support / Custom Development
 
 For custom IoT, Raspberry Pi, or AI-based projects:
 https://digitalmonk.biz/hire-raspberry-pi-developer/
