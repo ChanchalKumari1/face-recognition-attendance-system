@@ -17,7 +17,7 @@ This project is a smart attendance system based on face recognition. It uses a c
 ---
 
 ## Hardware Required
-<img width="768" height="1024" alt="Untitled design (19)" src="https://github.com/user-attachments/assets/ad21f291-cfa3-4470-b07e-7bcb8404324e" />
+<img width="768" height="1000" alt="Untitled design (19)" src="https://github.com/user-attachments/assets/ad21f291-cfa3-4470-b07e-7bcb8404324e" />
 
 
 
